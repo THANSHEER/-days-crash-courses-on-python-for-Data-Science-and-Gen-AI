@@ -1,0 +1,10 @@
+Metadata-Version: 2.2
+Name: SamplePRoject
+Version: 0.0.1
+Author: Krish Naik
+Author-email: krishnaik06@gmail.com
+Requires-Dist: langchain
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
